@@ -1,0 +1,40 @@
+{
+  "name": "projectopruebaapp",
+  "version": "0.1.0",
+  "keywords": [
+    "cells-app"
+  ],
+  "dependencies": {
+    "@bbva-experience-components/bbva-clip-card-data": "^2.3.9",
+    "@bbva-experience-components/bbva-header-main": "^2.6.2",
+    "@bbva-experience-components/bbva-progress-content": "^1.3.19",
+    "@bbva-experience-components/bbva-table-row-group": "^1.0.15",
+    "@bbva-experience-components/bbva-type-text": "^1.5.10",
+    "@bbva-web-components-widgets/cards-list-cards": "^1.12.2",
+    "@bbva-web-components/bbva-core-intl-mixin": "^1.5.4",
+    "@bbva-web-components/bbva-foundations-grid-default-layout": "^1.0.1",
+    "@bbva-web-components/bbva-foundations-grid-default-template-base": "^0.4.4",
+    "@bbva-web-components/bbva-foundations-icons": "^1.16.0",
+    "@bbva-web-components/bbva-web-button-default": "^1.5.0",
+    "@bbva-web-components/bbva-web-button-multistep-back": "^1.2.6",
+    "@bbva-web-components/bbva-web-form-password": "^1.2.0",
+    "@bbva-web-components/bbva-web-form-text": "^1.1.0",
+    "@bbva-web-components/bbva-web-link": "^1.6.1",
+    "@bbva-web-components/bbva-web-navigation-breadcrumbs": "^1.3.10",
+    "@cells-demo/demo-app-container": "^1.0.0",
+    "@cells-demo/demo-app-template": "^1.0.0",
+    "@cells-demo/demo-data-dm": "^1.0.0",
+    "@cells-demo/demo-web-template": "^1.1.0",
+    "@cells-formation-co/mendoza-john-cells-form-login-ui": "^1.1.0",
+    "@cells/cells-bridge": "^3.19.2",
+    "@cells/cells-element": "^1.5.0",
+    "@cells/cells-page": "^1.5.0",
+    "@CellsFormationCo/mendoza-john-dm": "^1.0.0",
+    "@webcomponents/webcomponentsjs": "^2.7.0",
+    "cells-app-template": "^6.0.0",
+    "lit-element": "^2.0.0"
+  },
+  "devDependencies": {
+    "@cells/cells-component-core": "^3.2.0"
+  }
+}

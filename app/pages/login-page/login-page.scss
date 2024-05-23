@@ -1,0 +1,19 @@
+@import 'node_modules/@bbva-web-components/bbva-foundations-sass/main';
+
+.main-content {
+  position: fixed;
+  height: 100%;
+  background: var(--_bg-color);
+}
+
+:host([ambient~='secondary']),
+[ambient~='secondary'],
+[data-ambient~='secondary'] {
+  --_bg-color: #{bbvaDecisionToken('colorSecondaryAltNotificationInfoBackground', decisions)};
+}
+
+:host([ambient~='primary']),
+[ambient~='primary'],
+[data-ambient~='primary'] {
+  --_bg-color: #{bbvaDecisionToken('colorPrimaryAltNotificationInfoBackground', decisions)};
+}
